@@ -4,6 +4,9 @@ Visit Link - https://globalfoundationngo.org
 
 I developed a GMDF NGO + Multiple School Management System web application with four user roles: super admin, school admin, teacher, and student. The NGO section includes static content, blogs, crowdfunding posts, and membership options, enabling NGOs to share information and collect funds. The school section provides a comprehensive solution for managing school operations, including student profiles, schedules, ID card generation, fee collection, and a notes section where students can access notes and lecture videos. This system streamlines administrative tasks and enhances the learning experience, making it a versatile tool for both NGO and school management.
 
+![image](https://github.com/user-attachments/assets/4042dcd6-0d86-4c13-a455-77a5602958e1)
+
+
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
