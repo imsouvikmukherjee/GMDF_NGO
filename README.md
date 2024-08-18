@@ -1,5 +1,36 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
+Visit Link - https://globalfoundationngo.org
+
+I developed a GMDF NGO + Multiple School Management System web application with four user roles: super admin, school admin, teacher, and student. The NGO section includes static content, blogs, crowdfunding posts, and membership options, enabling NGOs to share information and collect funds. The school section provides a comprehensive solution for managing school operations, including student profiles, schedules, ID card generation, fee collection, and a notes section where students can access notes and lecture videos. This system streamlines administrative tasks and enhances the learning experience, making it a versatile tool for both NGO and school management.
+
+This is dashboard of student panel
+![image](https://github.com/user-attachments/assets/4042dcd6-0d86-4c13-a455-77a5602958e1)
+
+This is Home page of GMDF NGO website
+![image](https://github.com/user-attachments/assets/dc91463c-dca1-45a0-bbca-e2b9eefd1d3e)
+
+This is add school details form in super admin panel
+
+![image](https://github.com/user-attachments/assets/9f6f8ab6-c2d6-466f-aa9b-b56949c4cb23)
+
+This is note section of specific subject folder where user can view their notes and watch video lecture
+
+![image](https://github.com/user-attachments/assets/690c007a-e5bf-4fea-96c1-5fc406f10e73)
+
+This is the manage news section of super admin where admin can edit, delete news and change status from active to inactive and see news details.
+
+![image](https://github.com/user-attachments/assets/cb0432c0-6f4f-458e-875c-84fc8540211c)
+
+And so on.....
+
+
+
+
+
+
+
+
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
